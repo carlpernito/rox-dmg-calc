@@ -1,0 +1,9 @@
+.job-skill-passive {
+  background: #fff;
+  border-radius: 1rem;
+  padding: 1rem 2rem;
+}
+
+.job-skill-passive table {
+  text-align: left;
+}

@@ -1,0 +1,14 @@
+.job-list {
+  width: 80vw;
+  max-width: 1170px;
+  margin: auto;
+  display: grid;
+  gap: 2rem;
+  text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+  .job-list {
+    grid-template-columns: repeat(6, 1fr);
+  }
+} ;
