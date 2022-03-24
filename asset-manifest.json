@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/carlpernito/rox-dmg-calc/static/css/main.b61b8d1b.css",
-    "main.js": "/carlpernito/rox-dmg-calc/static/js/main.3f109e3f.js",
-    "static/js/787.20153a6c.chunk.js": "/carlpernito/rox-dmg-calc/static/js/787.20153a6c.chunk.js",
-    "static/media/logo.svg": "/carlpernito/rox-dmg-calc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/carlpernito/rox-dmg-calc/index.html",
-    "main.b61b8d1b.css.map": "/carlpernito/rox-dmg-calc/static/css/main.b61b8d1b.css.map",
-    "main.3f109e3f.js.map": "/carlpernito/rox-dmg-calc/static/js/main.3f109e3f.js.map",
-    "787.20153a6c.chunk.js.map": "/carlpernito/rox-dmg-calc/static/js/787.20153a6c.chunk.js.map"
+    "main.css": "/rox-dmg-calc/static/css/main.b61b8d1b.css",
+    "main.js": "/rox-dmg-calc/static/js/main.f41f3b77.js",
+    "static/js/787.20153a6c.chunk.js": "/rox-dmg-calc/static/js/787.20153a6c.chunk.js",
+    "static/media/logo.svg": "/rox-dmg-calc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rox-dmg-calc/index.html",
+    "main.b61b8d1b.css.map": "/rox-dmg-calc/static/css/main.b61b8d1b.css.map",
+    "main.f41f3b77.js.map": "/rox-dmg-calc/static/js/main.f41f3b77.js.map",
+    "787.20153a6c.chunk.js.map": "/rox-dmg-calc/static/js/787.20153a6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b61b8d1b.css",
-    "static/js/main.3f109e3f.js"
+    "static/js/main.f41f3b77.js"
   ]
 }
