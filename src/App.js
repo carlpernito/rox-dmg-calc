@@ -1,12 +1,12 @@
 import logo from "./logo.svg";
-import Navbar from "./component/navbar/navbar.component";
+import Homepage from "./component/homepage/homepage.component";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <Navbar />
+      <Homepage />
       <br />
       <br />
     </>
